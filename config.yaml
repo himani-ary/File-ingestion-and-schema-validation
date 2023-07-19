@@ -1,0 +1,7 @@
+file_type: csv
+file_name: final_animedataset
+inbound_delimiter: '\t'
+expected_columns: ['column1', 'column2', 'column3']  # List of expected header columns
+
+
+
